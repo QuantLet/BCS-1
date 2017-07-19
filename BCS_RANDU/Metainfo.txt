@@ -12,6 +12,8 @@ Keywords:         random number generation
 See also:         BCS_LFG.r, BCS_boxmuller.r
 
 Author:           Martin Schelisch
+
+Submitted:        Ya Qian
    
 Output:           'A vector of random numbers with less than ideal random characteristics'
 
