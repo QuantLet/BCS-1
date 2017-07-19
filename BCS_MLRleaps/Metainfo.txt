@@ -12,5 +12,7 @@ See also:         BCS_MLRdiagnostic
 
 Author:           Anastasija Tetereva
 
+Submitted:        Ya Qian
+
 Output:           'Plot of number of explanatory variables against R squared.'
 
